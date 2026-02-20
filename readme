@@ -1,1 +1,43 @@
+# 📊 Power BI Dashboards & Reports
 
+A collection of interactive business dashboards built 
+using Microsoft Power BI with real-world datasets.
+
+---
+
+## 🛠️ Tools Used
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📁 Dashboards
+
+### 1. 🛒 Sales Data Dashboard
+- Sales by Region, Category, Segment
+- Monthly & Yearly trends
+- Top 10 Customers
+- Interactive Region slicer
+
+### 2. 📱 Screen Time Analysis Dashboard
+- Weekly screen time tracking
+- Usage distribution (High/Average/Low)
+- Daily habits analysis
+- Dynamic insight text
+- Interactive day slicer
+- Adjusted screen time by parameter
+
+---
+
+## 💡 Key Features Used
+- Cards, Bar Charts, Donut Charts, Line Charts
+- Slicers for interactivity
+- Dynamic Insight Text
+- Data Transformation in Power Query
+- Custom pink theme design
+
+---
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushti-dureja-9b0868316/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Pushti-dureja)
